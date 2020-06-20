@@ -1,0 +1,20 @@
+
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://projectlightintensity.s3.amazonaws.com/lightintensity"
+            ]
+        },
+        {
+            "URIPrefixes": [
+                "prefix1",                              
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",               
+    }
+}
+                            
